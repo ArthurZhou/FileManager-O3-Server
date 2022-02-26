@@ -7,3 +7,6 @@ This is an ALPHA version. So there is a lot of bugs, security problems, etc. We 
 
 # Report Bugs
 If you find a bug,please send an e-mail to `arthurzhou_atwork@yeah.net` with a subject `FileManager Report`.Thank you!
+
+# Donate
+If you think this is a useful project.Please support me on https://www.patreon.com/FileManager !
